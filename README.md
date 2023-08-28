@@ -1,3 +1,5 @@
+# Pitch-to-SBI-Hackathon
+
 <img width="372" alt="image" src="https://github.com/Rajveermathur/The_Turing_Tribe/assets/63655047/41cd5686-219e-4d91-8636-e2bae11cde96">
 
 #### Team Name - The Turing Tribe
@@ -14,8 +16,8 @@
   
 ## Tech Stack: 
    UI Prototype developed using Figma (File pushed).
-   Proposed Solution Frontend - React.js
-   Proposed Solution Backend - Google Cloud Services
+   Proposed Solution Frontend - React.
+   Proposed Solution Backend - Google Cloud Services.
    
 ## Step-by-Step Code Execution Instructions:
   Download the Figma file (SBI-H2S.fig).
