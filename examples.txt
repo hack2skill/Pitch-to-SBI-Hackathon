@@ -1,0 +1,11 @@
+loan application:
+
+The loan application seeks funding for the construction of a residential property on a 5000 square feet plot of land . The funds will cover materials, labor, permits, and other essential expenses, resulting\
+ in a valuable and comfortable residence in a prime location.
+
+Details:
+Applicant name: John Doe
+House construction site: New Colony, 100001
+Total cost: 5,000,000
+
+
