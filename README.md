@@ -9,9 +9,9 @@
 
 ## README.md must consist of the following information:
 
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - Brainvoltzzz
+#### Problem Statement - End to end digitised agri-lending 
+#### Team Leader Email - vedangbhole2@gmail.com
 
 ## A Brief of the Prototype:
   This section must include UML Diagrams and prototype description
