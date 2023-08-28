@@ -44,12 +44,13 @@
         python upi_fraud_check.py
         ```
         
-        Then in the terminal click on the link generated for local host. Example- Running on local URL:  http://127.0.0.1:7861\
-        To check for Loan Portfolio fraud, run the following code:\
+      Then in the terminal click on the link generated for local host. Example- Running on local URL:  http://127.0.0.1:7861\
+      To check for Loan Portfolio fraud, run the following code:\
         ```
         python loan_fraud.py
         ```
-        Then in the terminal click on the link generated for local host. Example- Running on local URL:  http://127.0.0.1:7861\
+      Then in the terminal click on the link generated for local host. Example- Running on local URL:  http://127.0.0.1:7861\
+  **Explore the app!**
   
 ## What I Learned:
    While developing the prototype I learned that if we do not pay attention to our transactions regarding whom we are paying and by what means, we can easily fall prey to financial fraud. I learned how LLMs can be used to leverage fraud detection and how an OCR model can reduce the human task of detecting whether a loan applicant is a defaulter. Similarily I learned the usage of robust machine learning models to detect credit defaults.
