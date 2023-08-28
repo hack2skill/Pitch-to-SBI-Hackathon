@@ -43,11 +43,13 @@
         ```
         python upi_fraud_check.py
         ```
+    
     Then in the terminal click on the link generated for local host. Example- Running on local URL:  http://127.0.0.1:7861\
     To check for Loan Portfolio fraud, run the following code:\
         ```
         python loan_fraud.py
         ```
+    
     Then in the terminal click on the link generated for local host. Example- Running on local URL:  http://127.0.0.1:7861\
     
   **Explore the app!**
