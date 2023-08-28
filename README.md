@@ -9,7 +9,7 @@
 
 ## README.md must consist of the following information:
 
-#### Team Name -
+#### Team Name - FINCOP
 #### Problem Statement - 
 #### Team Leader Email -
 
