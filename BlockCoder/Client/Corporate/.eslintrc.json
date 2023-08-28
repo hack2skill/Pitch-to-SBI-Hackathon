@@ -1,0 +1,7 @@
+{
+  "extends": "next/core-web-vitals",
+  "plugins": ["next"],
+  "rules": {
+    "@next/next/link-passhref": "error"
+  }
+}
