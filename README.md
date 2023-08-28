@@ -1,3 +1,5 @@
+<img width="372" alt="image" src="https://github.com/Rajveermathur/The_Turing_Tribe/assets/63655047/41cd5686-219e-4d91-8636-e2bae11cde96">
+
 #### Team Name - The Turing Tribe
 #### Problem Statement - To provide STP digital journey for customers to avail of Agri loans.
 #### Team Leader Email - rajveer.mathur25@gmail.com
