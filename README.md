@@ -25,16 +25,17 @@
    
 ## Step-by-Step Code Execution Instructions:
 
-  Step 1: Clone the repository using the following command:
+  Step 1: Clone the repository using the following command:\
         ```
-        git clone https://github.com/hindesh-akash/Pitch-to-SBI-Hackathon.git
+        git clone https://github.com/hindesh-akash/Pitch-to-SBI-Hackathon.git\
         ```
-  Step 2: Install the requirements:
+  Step 2: Install the requirements:\
         ```
         pip install -r requirements.txt
         ```
-  Step 3: **IMPORTANT**
-        -> Setup your OpenAI key in the **openai.api_key** variable in "loan_fraud.py" and "upi_fraud_check.py**
+        
+  Step 3: **IMPORTANT**\
+        -> Setup your OpenAI key in the **openai.api_key** variable in "loan_fraud.py" and "upi_fraud_check.py**\
   Step 4: Open a new terminal\
         To check for UPI fraud, run the following code:\
         ```
