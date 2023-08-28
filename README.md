@@ -6,6 +6,23 @@
 #### Problem Statement - Real-Time High Scale Financial Fraud Risk Management
 #### Team Leader Email - ksharma7_be21@thapar.edu
 
+Data Dictionary
+transdatetrans_time	Transaction DateTime
+merchant	Merchant Name
+category	Category of Merchant
+amt	Amount of Transaction
+city	City of Credit Card Holder
+state	State of Credit Card Holder
+lat	Latitude Location of Purchase
+long	Longitude Location of Purchase
+city_pop	Credit Card Holder's City Population
+job	Job of Credit Card Holder
+dob	Date of Birth of Credit Card Holder
+trans_num	Transaction Number
+merch_lat	Latitude Location of Merchant
+merch_long	Longitude Location of Merchant
+is_fraud	Whether Transaction is Fraud (1) or Not (0)
+
 ## A Brief of the Prototype:
 We have deployed highly scalable, open source data transaction streamer of Kafka. Kafka is used by various huge corporations like Netflix for enormous traffic channelization. Our model, converts the json data into a preprocessed format that our model further predicts upon. Our ann model shows a accuracy of 99.6 % and has been tuned to reduce amount of false positives.
 
