@@ -5,14 +5,23 @@
 #### Team Leader Email - ayushcsksingh@gmail.com
 
 ## A Brief of the Prototype:
-  This section must include UML Diagrams and prototype description
+  There is a home.dart page which have the entries for predicting whether the payment we are about to make is fraudulent or not.
   
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype
+  Flutter, Firebase, Numpy, Pandas, Flask 
    
 ## Step-by-Step Code Execution Instructions:
-  This Section must contain a set of instructions required to clone and run the prototype so that it can be tested and deeply analyzed
+	Requirements:
+	Flutter sdk
+	Android sdk
+	
+	1. git clone repo
+	2. cd frauddetectionapp
+	3. run commands flutter clean & flutter pub get
+	4. run the main.dart which is in lib folder to check the results
+	5. same process for e-commerce app
   
 ## What I Learned:
-   Write about the biggest learning you had while developing the prototype
+   This project helped our team to explore many parts of flutter including its integration with machine learning.
+   The project also included machine learning concepts.
 
