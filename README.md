@@ -34,8 +34,11 @@
 ![Screenshot 2023-08-28 220217](https://github.com/Reetinder932/dhan1/assets/113838495/e0f55c0a-647e-4c45-9388-82f9fbdbd427)
 
 
+# Source Code
 
+The original source repository can be found at: https://github.com/Reetinder932/dhan1
 
+This repository is a mirror of the source code, complying to the pull request criteria
 
 
 
