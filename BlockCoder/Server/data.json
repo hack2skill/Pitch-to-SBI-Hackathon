@@ -1,0 +1,143 @@
+{
+  "U72900KA2011PTC060958": {
+    "Company Name": "VEDANTU INNOVATIONS PRIVATE LIMITED",
+    "ROC Code": "RoC-Bangalore",
+    "Registration Number": "060958",
+    "Company Category": "Company limited by Shares",
+    "Company SubCategory": "Non-govt company",
+    "Class of Company": "Private",
+    "Authorised Capital(Rs)": "290207940",
+    "Paid up Capital(Rs)": "202473705",
+    "Number of Members(Applicable in case of company without Share Capital)": "0",
+    "Date of Incorporation": "29/10/2011",
+    "Registered Address": "No. 1081, 2nd, 3rd & 4th Floor 14th Main, Sector-3, HSR Layout Bangalore KA 560102 IN",
+    "Address other than R/o where all or any books of account and papers are maintained": "-",
+    "Email Id": "ap@vedantu.com",
+    "Whether Listed or not": "Unlisted",
+    "ACTIVE compliance": "ACTIVE compliant",
+    "Suspended at stock exchange": "-",
+    "Date of last AGM": "30/11/2022",
+    "Date of Balance Sheet": "31/03/2022",
+    "Company Status(for efiling)": "Active",
+    "Charges": [
+      {
+        "Assets under charge": "A first ranking pari passu charge on all rights, t",
+        "Charge Amount": "500000000",
+        "Date of Creation": "14/12/2021",
+        "Date of Modification": "-",
+        "Status": "OPEN"
+      },
+      {
+        "Assets under charge": "Copyright or licence under copy right",
+        "Charge Amount": "150000000",
+        "Date of Creation": "04/04/2019",
+        "Date of Modification": "01/07/2019",
+        "Status": "CLOSED"
+      },
+      {
+        "Assets under charge": "",
+        "Charge Amount": "100000000",
+        "Date of Creation": "04/03/2020",
+        "Date of Modification": "-",
+        "Status": "Closed"
+      },
+      {
+        "Assets under charge": "Lien on Fixed Deposits",
+        "Charge Amount": "6545940",
+        "Date of Creation": "29/06/2021",
+        "Date of Modification": "-",
+        "Status": "OPEN"
+      }
+    ],
+    "Directors/Signatory Details": [
+      {
+        "DIN/PAN": "01947911",
+        "Name": "SIDDHARTH RAJENDER NAUTIYAL",
+        "Begin date": "08/03/2018",
+        "End date": "-",
+        "Surrendered DIN": ""
+      },
+      {
+        "DIN/PAN": "03090626",
+        "Name": "ANAND PRAKASH",
+        "Begin date": "29/10/2011",
+        "End date": "-",
+        "Surrendered DIN": ""
+      },
+      {
+        "DIN/PAN": "03090814",
+        "Name": "VAMSIKRISHNA PARUCHURIKUMAR",
+        "Begin date": "29/10/2011",
+        "End date": "-",
+        "Surrendered DIN": ""
+      },
+      {
+        "DIN/PAN": "03441515",
+        "Name": "ANAND DANIEL",
+        "Begin date": "22/05/2015",
+        "End date": "-",
+        "Surrendered DIN": ""
+      },
+      {
+        "DIN/PAN": "ASCPD2413J",
+        "Name": "SANJAY DARA",
+        "Begin date": "01/04/2023",
+        "End date": "-",
+        "Surrendered DIN": ""
+      }
+    ]
+  },
+  "U74110DL2019PTC350878": {
+    "Company Name": "PROGCAP FINANCIAL SERVICES PRIVATE LIMITED",
+    "ROC Code": "RoC-Delhi",
+    "Registration Number": "350878",
+    "Company Category": "Company limited by Shares",
+    "Company SubCategory": "Non-govt company",
+    "Class of Company": "Private",
+    "Authorised Capital(Rs)": "22000000",
+    "Paid up Capital(Rs)": "22000000",
+    "Number of Members(Applicable in case of company without Share Capital)": "0",
+    "Date of Incorporation": "03/06/2019",
+    "Registered Address": "252-A, 4th Floor, Vijay Tower, Near Panchsheel Commercial Complex, New Delhi East Delhi DL 110049 IN",
+    "Address other than R/o where all or any books of account and papers are maintained": "-",
+    "Email Id": "himanshu@progcap.com",
+    "Whether Listed or not": "Unlisted",
+    "ACTIVE compliance": "-",
+    "Suspended at stock exchange": "-",
+    "Date of last AGM": "30/09/2022",
+    "Date of Balance Sheet": "31/03/2022",
+    "Company Status(for efiling)": "Active",
+    "Charges": [
+      {
+        "Assets under charge": "No Charges Exists for Company/LLP",
+        "Charge Amount": "",
+        "Date of Creation": "",
+        "Date of Modification": "",
+        "Status": ""
+      }
+    ],
+    "Directors/Signatory Details": [
+      {
+        "DIN/PAN": "02012844",
+        "Name": "MANU RIKHYE",
+        "Begin date": "03/06/2019",
+        "End date": "-",
+        "Surrendered DIN": ""
+      },
+      {
+        "DIN/PAN": "07315578",
+        "Name": "HIMANSHU CHANDRA",
+        "Begin date": "03/06/2019",
+        "End date": "-",
+        "Surrendered DIN": ""
+      },
+      {
+        "DIN/PAN": "07677898",
+        "Name": "PALLAVI SHRIVASTAVA",
+        "Begin date": "03/06/2019",
+        "End date": "-",
+        "Surrendered DIN": ""
+      }
+    ]
+  }
+}
