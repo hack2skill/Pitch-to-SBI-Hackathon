@@ -19,6 +19,9 @@ Frontend: React Js
 Backend: Node JS
 Database: Firebase
 Tools: Puppeteer js for scrapping data
+
+## Demo:
+https://www.veed.io/view/7cf70f1e-ac81-4dbf-aee3-81b45704a378?panel=share
    
 ## Step-by-Step Code Execution Instructions:
   git clone https://github.com/adrenal29/Pitch-to-SBI-Hackathon
